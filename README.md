@@ -1,2 +1,2 @@
-# Projetos Prático em Python-
+# Projetos Práticos em Python-
 Python 
